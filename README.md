@@ -1,1 +1,1 @@
-# [think-git](http://kdheepak.com/think-git)
+# [git](http://gebetix.github.com/git)
